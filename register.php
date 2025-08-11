@@ -248,7 +248,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="register-right">
             <div class="brand-head">
                 <div class="brand-logo">
-                    <img src="images/login.jpg" alt="iTech Cart logo" onerror="this.style.display='none'">
+                    <img src="images/logo.png" alt="iTech Cart logo" onerror="this.style.display='none'">
                 </div>
                 <div>
                     <h3>Create your account</h3>
